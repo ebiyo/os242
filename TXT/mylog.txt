@@ -10,5 +10,6 @@ ZCZC W00 30 L08 OS Chat related (LINE) with friend
 ZCZC W00 40 L05 Quiz related
 ZCZC W00 5 L61 Install Virtual Box
 ZCZC W00 300 L73 Gaming
-ZCZC W00 1080 Waching YouTube
+ZCZC W00 1080 Watching YouTube
 ZCZC W00 360 Listening to music
+ZCZC W00 120 L10 Assignment #00
