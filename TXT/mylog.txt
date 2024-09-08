@@ -2,6 +2,20 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W01 30 L03 GitHub and git related
+ZCZC W01 10 L04 GitHub pages related
+ZCZC W01 20 L31 VirtualBox: install Debian
+ZCZC W01 30 L06 References/Documents/Browsing/GSGS related
+ZCZC W01 10 L41 TXT/mylog.txt related
+ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 15 L01 SCELE/Discord related
+ZCZC W01 60 L08 OS Chat related (LINE) with friend
+ZCZC W01 30 L05 Quiz related
+ZCZC W01 240 L73 Gaming
+ZCZC W01 1080 L80 Watching YouTube
+ZCZC W01 240 L81 Listening to music
+ZCZC W01 360 L11 Assignment #01
+
 ZCZC W00 20 L03 GitHub and git related
 ZCZC W00 10 L41 TXT/mylog.txt related
 ZCZC W00 200 L02 CLASSROOM/ZOOM meetings related
@@ -10,6 +24,6 @@ ZCZC W00 30 L08 OS Chat related (LINE) with friend
 ZCZC W00 40 L05 Quiz related
 ZCZC W00 5 L61 Install Virtual Box
 ZCZC W00 300 L73 Gaming
-ZCZC W00 1080 Watching YouTube
-ZCZC W00 360 Listening to music
+ZCZC W00 1080 L80 Watching YouTube
+ZCZC W00 360 L81 Listening to music
 ZCZC W00 120 L10 Assignment #00
