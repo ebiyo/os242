@@ -10,6 +10,8 @@ permalink: LINKS/
   The main site for OS class
 * [Vim Cheat Sheet](https://vim.rtorr.com/) ---
   As the name suggest, this site contains commands for vim to better help me join the dark side (transitioning to vim).
+* [Nano Cheat Sheet](https://www.nano-editor.org/dist/latest/cheatsheet.html) ---
+  Turns out nano is better in ease of use than vim. This is a site contains commands to use said text editor. 
 * [Regex Cheat Sheet](https://www.rexegg.com/regex-quickstart.php) ---
   A site that contains reference to basic regex. Useful when I forgot how to do a thing using regex.
 * [AWK Crash Course](https://youtu.be/oPEnvuj9QrI?si=eUeYgbyOz2DYLxAA) ---
