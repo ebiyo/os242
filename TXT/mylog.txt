@@ -2,6 +2,17 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W06 15 L03 GitHub and git related
+ZCZC W06 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 15 L06 References/Documents/Browsing/GSGS related
+ZCZC W06 10 L41 TXT/mylog.txt related
+ZCZC W06 60 L01 SCELE/Discord related
+ZCZC W06 45 L08 OS Chat related (LINE) with friend
+ZCZC W06 240 L73 Gaming
+ZCZC W06 720 L80 Watching YouTube
+ZCZC W06 280 L81 Listening to music
+ZCZC W06 120 L16 Assignment #06
+
 ZCZC W05 15 L03 GitHub and git related
 ZCZC W05 15 L06 References/Documents/Browsing/GSGS related
 ZCZC W05 10 L41 TXT/mylog.txt related
